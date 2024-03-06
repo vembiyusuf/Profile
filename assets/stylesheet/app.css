@@ -62,7 +62,7 @@ body {
 }
 .waves {
   margin-top: -100px;
-  margin-bottom: 70px;
+  margin-bottom: 80px;
 }
 .firstContainer {
   background: linear-gradient(
@@ -86,7 +86,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 150px;
+  padding-top: 250px;
   padding-bottom: 20px;
 }
 .subNameHeading {
@@ -116,20 +116,20 @@ body {
   align-items: center;
 }
 .wavesss {
-  margin-bottom: -20px;
+  margin-bottom: -30px;
 }
 
 
 
 .categoryy .container .col {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .thirdContainer {
-  margin-top: 200px;
+  margin-top: 130px;
 }
 .fourthContainer {
-  margin-top: -150px;
+  margin-top: -130px;
   background-color: #fff;
 }
 .linkSosmed {
@@ -147,5 +147,5 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: -90px;
+  margin-top: -80px;
 }

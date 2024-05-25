@@ -62,7 +62,7 @@ body {
 }
 .waves {
   margin-top: -100px;
-  margin-bottom: 80px;
+  margin-bottom: 70px;
 }
 .firstContainer {
   background: linear-gradient(
@@ -126,17 +126,17 @@ body {
 }
 
 .thirdContainer {
-  margin-top: 130px;
+  margin-top: 140px;
 }
 .fourthContainer {
-  margin-top: -130px;
+  margin-top: -150px;
   background-color: #fff;
 }
 .linkSosmed {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 10px;
+  padding: 0 10px;
 }
 .itemSosmed {
   padding: 10px;
